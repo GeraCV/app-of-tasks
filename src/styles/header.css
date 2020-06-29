@@ -1,0 +1,23 @@
+.header {
+  margin: 1rem 1.5rem;
+}
+
+.header-title {
+  font-size: 2.3rem;
+    color: rgb(206, 204, 204);
+}
+
+.header .header-counter {
+  color:#2C4251;
+  font-size: 2rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.container-counter {
+  display: inline-block;
+  width: 5rem;
+  background: rgb(206, 204, 204);
+  border-radius: 1.5rem;
+}

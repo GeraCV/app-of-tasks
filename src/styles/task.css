@@ -1,0 +1,51 @@
+
+.container-task {
+  border: 1px solid rgb(83, 83, 83);
+  padding: 1.5rem;
+  border-radius: .5rem;
+  margin:auto auto 4rem auto;
+  background: rgb(206, 204, 204);
+
+}
+
+.container-task .name {
+  font-size: 1.7rem;
+  font-style: italic;
+  color: rgb(36, 35, 35);
+  margin-bottom: 1rem;
+}
+
+ .container-task .sub-text {
+  font-style: initial;
+  color: initial;
+  font-weight: initial;
+
+}
+
+.owner, .description, .urgency {
+  font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+}
+
+.container-task .sub-text {
+  font-size: .9rem;
+}
+
+.container-btn-delete {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-delete {
+  padding: .5rem 1rem;
+  border-radius: .5rem;
+  border-style: none;
+  border: 1px solid gray;
+}
+
+.container-tasks {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+

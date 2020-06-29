@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "name": "Tarea 1",
+      "owner": "Gera CV",
+      "description": "Ir a realizar las compras.",
+      "date": "hoy"
+    },
+    {
+      "name": "Tarea 2",
+      "owner": "Gera CV",
+      "description": "Hacer ejercicio.",
+      "date": "hoy"
+    },
+    {
+      "name": "Tarea 3",
+      "owner": "Gera CV",
+      "description": "Ir a comprar una cámara.",
+      "date": "hoy"
+    }
+  ]
+}
